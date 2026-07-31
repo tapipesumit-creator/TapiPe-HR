@@ -1,0 +1,6 @@
+{
+  "name": "TapiPE HR",
+  "description": "Enterprise AI-powered HRMS & Payroll Platform for TapiPE Fintech with multi-role access control, Ask Sumit AI Assistant, attendance, leave workflow, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
